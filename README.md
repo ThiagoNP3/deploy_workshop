@@ -6,7 +6,7 @@ Follow the steps below to get started:
 
 1. Fork this github repository to your github account
 2. Clone your forked repository
-3. Replace all occurrences of *github.com/barbolo/deploy_workshop* with **github.com/your_username/deploy_workshop**
+3. Replace all occurrences of *github.com/thiagonp/deploy_workshop* with **github.com/your_username/deploy_workshop**
 4. Create and push a new commit
 5. **WARNING!!!** Do not commit changes to the file config/aws.yml and to any file inside the recipes folder
 6. Follow [recipes/INFRASTRUCTURE.md](recipes/INFRASTRUCTURE.md)

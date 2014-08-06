@@ -3,7 +3,7 @@
 #
 # ATTENTION! CHANGE THE CONSTANTS BELOW!
 #
-GIT_CLONE_URL="https://github.com/barbolo/deploy_workshop.git"
+GIT_CLONE_URL="https://github.com/thiagonp/deploy_workshop.git"
 
 # create capistrano folders
 mkdir -p ~/git/deploy_workshop/releases

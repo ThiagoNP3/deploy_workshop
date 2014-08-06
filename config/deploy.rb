@@ -2,7 +2,7 @@
 lock '3.2.1'
 
 set :application, 'deploy_workshop'
-set :repo_url, 'https://github.com/barbolo/deploy_workshop.git'
+set :repo_url, 'https://github.com/thiagonp/deploy_workshop.git'
 set :scm, :git
 set :deploy_to, '/home/ubuntu/git/deploy_workshop'
 set :linked_files, %w{config/initializers/set_env_variables.rb}
